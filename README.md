@@ -24,25 +24,27 @@ The analysis of time series where the data are not collected in equal time incre
 
 ## Important Concepts
 🎓 Trends
-
 Trends are defined as measurable increases and decreases over time. Read more. In the context of time series, it's about how to use and, if necessary, remove trends from your time series.
 
 🎓 Seasonality
-
 Seasonality is defined as periodic fluctuations, such as holiday rushes that might affect sales, for example. Take a look at how different types of plots display seasonality in data.
 
 🎓 Outliers
-
 Outliers are far away from the standard data variance.
 
 🎓 Long-run cycle
-
 Independent of seasonality, data might display a long-run cycle such as an economic down-turn that lasts longer than a year.
 
 🎓 Constant variance
-
 Over time, some data display constant fluctuations, such as energy usage per day and night.
 
 🎓 Abrupt changes
-
 The data might display an abrupt change that might need further analysis. The abrupt shuttering of businesses due to COVID, for example, caused changes in data.
+
+________________________________________________________________________________________________________________________
+🎓 Stationarity
+From a statistical context, stationarity refers to data whose distribution does not change when shifted in time. Non-stationary data, then, shows fluctuations due to trends that must be transformed to be analyzed. Seasonality, for example, can introduce fluctuations in data and can be eliminated by a process of 'seasonal-differencing'.
+
+🎓 Differencing
+Differencing data, again from a statistical context, refers to the process of transforming non-stationary data to make it stationary by removing its non-constant trend. "Differencing removes the changes in the level of a time series, eliminating trend and seasonality and consequently stabilizing the mean of the time series."
+________________________________________________________________________________________________________________________
