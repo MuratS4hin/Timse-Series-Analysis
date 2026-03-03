@@ -22,6 +22,14 @@ The analysis of time series where the data are not collected in equal time incre
 | 329.25 | 1975.88 | 1975 | 11 |
 | 330.97 | 1975.96 | 1975 | 12 |
 
+## Graphs
+
+#### Plot of all dates
+![alt text](./data/image.png)
+
+#### Plot of the first week of July 2014
+![alt text](./data/image-1.png)
+
 ## Important Concepts
 🎓 Trends
 Trends are defined as measurable increases and decreases over time. Read more. In the context of time series, it's about how to use and, if necessary, remove trends from your time series.
