@@ -1,5 +1,5 @@
 # Timse-Series-Analysis
-A time series analysis models and descriptions
+A time series analysis models and descriptions. [This github repository was used as an example](https://github.com/microsoft/ML-For-Beginners/tree/main/7-TimeSeries)
 
 ## DATA:
 The term "univariate time series" refers to a time series that consists of single (scalar) observations recorded sequentially over equal time increments. Some examples are [monthly CO2 concentrations](https://itl.nist.gov/div898/handbook/pmc/section4/pmc4411.htm) and [southern oscillations to predict el nino effects](https://itl.nist.gov/div898/handbook/pmc/section4/pmc4412.htm).
